@@ -19,3 +19,5 @@ fields:
   type: datetime
   config:
     required: true
+pages:
+- portfolio/journal/the-horror-film-for-the-me-too-era-spoilers.md
