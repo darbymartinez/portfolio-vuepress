@@ -6,6 +6,12 @@
   "favicon": "/upload/toha.png",
   "navigation": [
     {
+      "text": "Resume",
+      "link": "/resume/",
+      "position": "left",
+      "external": false
+    },
+    {
       "text": "Works",
       "link": "/",
       "position": "left",
