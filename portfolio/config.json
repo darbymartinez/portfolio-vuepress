@@ -9,7 +9,7 @@
       "text": "Resume",
       "link": "/upload/resume.pdf",
       "position": "left",
-      "external": false
+      "external": true
     },
     {
       "text": "Works",
