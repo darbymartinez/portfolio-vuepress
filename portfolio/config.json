@@ -24,8 +24,8 @@
       "external": true
     },
     {
-      "text": "Journal",
-      "link": "/journal/",
+      "text": "Home",
+      "link": "/home/",
       "position": "right",
       "external": false
     }
