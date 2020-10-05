@@ -2,8 +2,8 @@
   "title": "Acme",
   "description": "Creative Agency",
   "logo": "/upload/toha.png",
-  "footer": "Ⓒ Acme",
-  "favicon": "favicon-32x32.png",
+  "footer": "Ⓒ Darby Martinez",
+  "favicon": "/upload/toha.png",
   "navigation": [
     {
       "text": "Works",
