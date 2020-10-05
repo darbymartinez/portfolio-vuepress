@@ -10,7 +10,7 @@ excerpt: Students at the College of Mount Saint Vincent held the school's very f
 
 Darby Martinez on September 25, 2019
 
-**![](/upload/screen-shot-2020-10-04-at-9-54-25-pm.png)**
+![](/upload/fb_img_1569150264249.jpg)
 
 Students at the College of Mount Saint Vincent held the school's very first climate walkout, joining hundreds of youths around the globe in protest for climate responsibility.
 
