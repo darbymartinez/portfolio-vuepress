@@ -7,7 +7,7 @@
   "navigation": [
     {
       "text": "Resume",
-      "link": "portfolio/Resume.pdf",
+      "link": "/Resume.pdf",
       "position": "left",
       "external": false
     },
