@@ -24,8 +24,8 @@
       "external": true
     },
     {
-      "text": "Home",
-      "link": "/home/",
+      "text": "Writing Sample",
+      "link": "/Writing Sample/",
       "position": "right",
       "external": false
     }
