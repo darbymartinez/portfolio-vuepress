@@ -50,7 +50,9 @@ Haney voiced the common scientific consensus that climate change is real and is 
   
   
   
-__**Cited:**__ Dorian Moro, Derek Ball, & Sally Bryant (2018) Australian Island Arks: Conservation, Management and Opportunities  
+__**Cited:**__ 
+
+Dorian Moro, Derek Ball, & Sally Bryant (2018) Australian Island Arks: Conservation, Management and Opportunities  
   
 “Climate change and the Great Barrier Reef” (2007) Australian Great Barrier Reef Marine Park Authority. Johanna E Johnson & Paul A Marshall Retrieved from [http://hdl.handle.net/11017/137](http://hdl.handle.net/11017/137 "http://hdl.handle.net/11017/137")  
   
