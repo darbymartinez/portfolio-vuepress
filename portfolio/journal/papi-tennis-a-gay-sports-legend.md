@@ -9,6 +9,8 @@ date:
 
 Darby Martinez on November 20, 2019
 
+![](/upload/64260498_10161992898150523_6144612605748051968_n.jpg)
+
 On the last warm day of autumn, the papis got out of bed for one last game.
 
 Inside the black metal cages of Oval park in Norwood, the papis began to play a game of hot gay tennis.
@@ -26,6 +28,8 @@ Arzuaga hosts these events with multiple volunteers during the week to create a 
 The story of papi tennis begins in April of 2007 when Arzuaga saw a lack of engagement and tennis in his community. The lackluster tennis culture in his neighborhood led him to work with a friend to create Papi Tennis.
 
 “We have these courts in my neighborhood that were severely underutilized… I was like, you know, let me put together a group,” said Arzuaga.
+
+![](/upload/398386217_fb_img_1569157909941_91803.jpg)
 
 Arzuaga grew up wanting to play tennis. He watched it on tv but couldn’t find tennis lessons. In high school, he tried joining a tennis team but the practices were late and affected his school work.
 
