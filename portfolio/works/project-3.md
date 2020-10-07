@@ -12,7 +12,7 @@ description: subtitle
 ---
 # Branding
 
-As part of my internship at the Colombia Center for Children's Environmental Health, I created branding materials for their youth council.
+**As part of my internship at the Colombia Center for Children's Environmental Health, I created branding materials for their youth council.**
 
 ###### ![](/upload/1.png)
 
