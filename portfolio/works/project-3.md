@@ -16,10 +16,10 @@ description: subtitle
 
 ![](/upload/1.png)
 
-<div align="center">To maintain an association with CCCEH, it was important to maintain the institution's logo in the youth council's branding.</div>
+<center><b>To maintain an association with CCCEH, it was important to maintain the institution's logo in the youth council's branding.</b></center>
 
 ![](/upload/2.png)
 
-<div align="center">By maintaining the logo and changing the color, we got a familiar identity with a distinctive personality that would fit the youth council's environmental mission.</div>
+<center><b>By maintaining the logo and changing the color, we got a familiar identity with a distinctive personality that would fit the youth council's environmental mission.</b></center>
 
 ![](/upload/3.png)
