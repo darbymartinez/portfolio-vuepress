@@ -18,7 +18,9 @@ description: subtitle
 
 ![](/upload/untitled-design-6.png)
 
-<center><h2>Colombia University Logo Variant</h2></center>![](/upload/imgonline-com-ua-tile-lpvqksj2drj5xbe.jpg)
+![](/upload/imgonline-com-ua-tile-lpvqksj2drj5xbe.jpg)
+
+<center><h2>Colombia University Logo Variant</h2></center>
 
 ![](/upload/avatar_hua5cb0e56a5522bec7af17a837a77622d_26894_270x270_fill_lanczos_center_2.png)
 
