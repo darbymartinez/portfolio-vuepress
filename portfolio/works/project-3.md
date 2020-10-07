@@ -2,17 +2,17 @@
 title: 'Colombia Center for Children''s Environmental Health '
 date: 2017-02-04T00:00:00.000+00:00
 thumbnail: "/upload/photo-1504198322253-cfa87a0ff25f.jpeg"
-year: 2017
+year: 2020
 categories:
-- print
+- Social Media
+- Web Presence
+- " Branding"
 description: subtitle
 
 ---
-# Project three
+# Branding
 
-As part of my internship at the Colombia Center for Children's Environmental Health, I created branding materials for their youth council.  
-
-![](/upload/1.png)
+As part of my internship at the Colombia Center for Children's Environmental Health, I created branding materials for their youth council.![](/upload/1.png)
 
 To maintain an association with CCCEH, it was important to maintain the institution's logo in the youth council's branding.
 
