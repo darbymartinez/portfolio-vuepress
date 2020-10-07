@@ -6,6 +6,12 @@
   "favicon": "/upload/toha.png",
   "navigation": [
     {
+      "text": "Linkedin",
+      "link": "https://www.linkedin.com/in/darbymartinez/",
+      "position": "right",
+      "external": true
+    },
+    {
       "text": "Resume",
       "link": "/upload/resume.pdf",
       "position": "left",
