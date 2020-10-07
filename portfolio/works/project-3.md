@@ -10,7 +10,7 @@ categories:
 description: subtitle
 
 ---
-# Branding
+<left]><h2>Branding</h2></left>
 
 <center><h2>As part of my internship at the Colombia Center for Children's Environmental Health, I created branding materials for their youth council.</h2></center>
 
