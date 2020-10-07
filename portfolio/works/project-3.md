@@ -14,7 +14,7 @@ description: subtitle
 
 <center><h2>As part of my internship at the Colombia Center for Children's Environmental Health, I created branding materials for their youth council.</h2></center>
 
-![](/upload/untitled-design-4.png)
+![](/upload/untitled-design-7.png)
 
 <center><h2>To maintain an association with CCCEH, it was important to maintain the institution's logo in the youth council's branding.</h2></center>
 
