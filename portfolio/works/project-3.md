@@ -12,14 +12,14 @@ description: subtitle
 ---
 # Branding
 
-<div align="center">*As part of my internship at the Colombia Center for Children's Environmental Health, I created branding materials for their youth council.*</div>
+#### <div align="center">As part of my internship at the Colombia Center for Children's Environmental Health, I created branding materials for their youth council.</div>
 
 ![](/upload/1.png)
 
-<div align="center">*To maintain an association with CCCEH, it was important to maintain the institution's logo in the youth council's branding.*</div>
+<div align="center">To maintain an association with CCCEH, it was important to maintain the institution's logo in the youth council's branding.</div>
 
 ![](/upload/2.png)
 
-<div align="center">*By maintaining the logo and changing the color, we got a familiar identity with a distinctive personality that would fit the youth council's environmental mission.*</div>
+<div align="center">By maintaining the logo and changing the color, we got a familiar identity with a distinctive personality that would fit the youth council's environmental mission.</div>
 
 ![](/upload/3.png)
