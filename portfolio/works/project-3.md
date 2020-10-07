@@ -1,6 +1,6 @@
 ---
-title: Project three
-date: 2017-02-04 00:00:00 +0000
+title: 'Colombia Center for Children''s Environmental Health '
+date: 2017-02-04T00:00:00.000+00:00
 thumbnail: "/upload/photo-1504198322253-cfa87a0ff25f.jpeg"
 year: 2017
 categories:
@@ -10,6 +10,14 @@ description: subtitle
 ---
 # Project three
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+As part of my internship at the Colombia Center for Children's Environmental Health, I created branding materials for their youth council.  
 
-![](/upload/photo-1504198322253-cfa87a0ff25f.jpeg)
+![](/upload/1.png)
+
+To maintain an association with CCCEH, it was important to maintain the institution's logo in the youth council's branding.
+
+![](/upload/2.png)
+
+By maintaining the logo and changing the color, we got a familiar identity with a distinctive personality that would fit the youth council's environmental mission.
+
+![](/upload/3.png)
