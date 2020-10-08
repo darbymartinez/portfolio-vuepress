@@ -22,7 +22,7 @@ description: subtitle
 
 <center><h2>Colombia University Logo Variant</h2></center>
 
-![](/upload/avatar_hua5cb0e56a5522bec7af17a837a77622d_26894_270x270_fill_lanczos_center_2.png)
+![](/upload/20201007_204928_0000.png)
 
 <left><h1>Website</h1></left>
 
