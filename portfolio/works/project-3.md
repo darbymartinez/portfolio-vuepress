@@ -18,8 +18,6 @@ description: Internship
 
 ![](/upload/untitled-design-6.png)
 
-![](/upload/imgonline-com-ua-tile-lpvqksj2drj5xbe.jpg)
-
 <center><h2>Colombia University Logo Variant</h2></center>
 
 ![](/upload/20201007_204928_0000.png)
