@@ -7,7 +7,7 @@ categories:
 - Social Media
 - Web Presence
 - " Branding"
-description: subtitle
+description: Internship
 
 ---
 <left><h1>Branding</h1></left>
