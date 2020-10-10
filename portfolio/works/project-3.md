@@ -26,7 +26,7 @@ description: Internship
 
 ![](/upload/20201007_204928_0000.png)
 
-<center><h2>Branding Palette</h2></center>
+f<center><h2>Branding Palette</h2></center>
 
 ![](/upload/branding-pallete.png)
 
