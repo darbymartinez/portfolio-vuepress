@@ -16,11 +16,17 @@ description: Internship
 
 <center><h2>Logo</h2></center>
 
-![](/upload/untitled-design-6.png)
+![](/upload/logo.png)
+
+<center><h2>Social Media Logo</h2></center>![](/upload/img_20201009_205456_995.jpg)
 
 <center><h2>Colombia University Logo Variant</h2></center>
 
 ![](/upload/20201007_204928_0000.png)
+
+<center><h2>Branding Palette</h2></center>
+
+![](/upload/branding-pallete.png)
 
 <left><h1>Website</h1></left>
 
