@@ -20,7 +20,7 @@ description: Internship
 
 <center><h2>Social Media Logo</h2></center>
 
-![](/upload/img_20201009_205456_995.jpg)
+![](/upload/social-media.png)
 
 <center><h2>Colombia University Logo Variant</h2></center>
 
