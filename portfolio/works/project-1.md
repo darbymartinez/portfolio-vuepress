@@ -1,7 +1,7 @@
 ---
 title: One Day Window
 date: 2018-08-01T00:00:00.000+00:00
-thumbnail: "/upload/1-1.png"
+thumbnail: "/upload/untitled-design-1.png"
 year: 2019
 categories:
 - print
@@ -23,3 +23,5 @@ description: 'Client Branding '
 ![](/upload/3-1.png)
 
 ![](/upload/4.png)
+
+![](/upload/f8e076.png)
