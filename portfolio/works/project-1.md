@@ -5,7 +5,7 @@ thumbnail: "/upload/1-1.png"
 year: 2018
 categories:
 - print
-description: subtitle
+description: Branding fo
 
 ---
 <left><h1>Branding</h1></left>
@@ -18,4 +18,8 @@ description: subtitle
 
 ![](/upload/untitled-design-1.png)
 
-<center><h2>Sister Brand</h2></center>![](/upload/3-1.png)![](/upload/4.png)
+<center><h2>Sister Brand</h2></center>
+
+![](/upload/3-1.png)
+
+![](/upload/4.png)
