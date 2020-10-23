@@ -2,10 +2,10 @@
 title: One Day Window
 date: 2018-08-01T00:00:00.000+00:00
 thumbnail: "/upload/1-1.png"
-year: 2018
+year: 2019
 categories:
 - print
-description: Branding fo
+description: 'Client Branding '
 
 ---
 <left><h1>Branding</h1></left>
