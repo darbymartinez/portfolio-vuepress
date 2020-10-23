@@ -20,7 +20,7 @@ sections:
   templates:
   - works
 - type: directory
-  path: portfolio/journal
+  path: portfolio/Writing Sample
   label: Writing Samples
   create: all
   match: "**/[!index]*"
