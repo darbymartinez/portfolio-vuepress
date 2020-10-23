@@ -1,7 +1,7 @@
 ---
 title: 'Colombia Center for Children''s Environmental Health '
 date: 2017-02-04T00:00:00.000+00:00
-thumbnail: "/upload/untitled-design-8.png"
+thumbnail: "/upload/untitled-design-4.png"
 year: 2020
 categories:
 - Social Media
