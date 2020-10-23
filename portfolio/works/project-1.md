@@ -1,7 +1,7 @@
 ---
 title: One Day Window
 date: 2018-08-01T00:00:00.000+00:00
-thumbnail: "/upload/photo-1490013616775-3ca8865fb129.jpeg"
+thumbnail: "/upload/1-1.png"
 year: 2018
 categories:
 - print
@@ -16,6 +16,6 @@ description: subtitle
 
 ![](/upload/1-1.png)
 
-![](/upload/2-1.png)
+![](/upload/untitled-design-1.png)
 
-![](/upload/3-1.png)![](/upload/4.png)
+<center><h2>Sister Brand</h2></center>![](/upload/3-1.png)![](/upload/4.png)
