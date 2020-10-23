@@ -8,8 +8,8 @@ categories:
 description: subtitle
 
 ---
-# Project one
+<left><h1>Branding</h1></left>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+<center><h2>One day window treatments is a New York City based window treatment business.</h2></center>
 
-![](/upload/photo-1490013616775-3ca8865fb129.jpeg)
+<center><h2>Logos</h2></center>
