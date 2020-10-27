@@ -13,14 +13,16 @@ description: 'Client Branding '
 
 <center><h2>Logos</h2></center>
 
-![](/upload/1-1.png)
+![](/upload/1-2.png)
 
-![](/upload/untitled-design-1.png)
+![](/upload/2-2.png)
 
 <center><h2>Sister Brand</h2></center>
 
-![](/upload/3-1.png)
+![](/upload/3-2.png)
 
-![](/upload/4.png)
+![](/upload/4-1.png)
 
-![](/upload/f8e076.png)
+<center><h2>Branding Palette</h2></center>
+
+![](/upload/5.png)
