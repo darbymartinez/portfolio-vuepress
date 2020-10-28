@@ -1,7 +1,7 @@
 ---
 title: One Day Window
 date: 2018-08-01T00:00:00.000+00:00
-thumbnail: "/upload/f8e076-1.png"
+thumbnail: "/upload/1-3.png"
 year: 2019
 categories: []
 description: 'Client Branding '
@@ -13,20 +13,22 @@ description: 'Client Branding '
 
 <center><h2>Logos</h2></center>
 
-![](/upload/1-2.png)
+![](/upload/1-3.png)
 
-![](/upload/2-2.png)
+![](/upload/2-3.png)
 
 <center><h2>Sister Brand</h2></center>
 
-![](/upload/3-2.png)
+![](/upload/3-3.png)
 
-![](/upload/4-1.png)
+![](/upload/4-2.png)
 
 <center><h2>Branding Palette</h2></center>
 
-![](/upload/5.png)
+![](/upload/5-1.png)
 
 <center><h2>Mockups</h2></center>
 
 ![](/upload/mockup-1.png)
+
+![](/upload/b3.png)
