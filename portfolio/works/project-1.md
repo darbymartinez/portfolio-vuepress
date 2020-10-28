@@ -27,7 +27,7 @@ description: 'Client Branding '
 
 ![](/upload/5-1.png)
 
-<center><h2>Mockups</h2></center>
+<center><h2>Mockups</h2></center>![](/upload/mockupnew1.png)
 
 ![](/upload/mockup-1.png)
 
