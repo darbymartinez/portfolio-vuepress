@@ -1,7 +1,7 @@
 ---
 works_index: true
 hero_text: "<strong>Here is some of my work! Enjoy!</strong>"
-title: Hero
+title: 
 
 ---
 <Hero :text="$page.frontmatter.hero_text" />
