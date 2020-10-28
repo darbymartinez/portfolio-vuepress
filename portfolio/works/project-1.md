@@ -26,3 +26,7 @@ description: 'Client Branding '
 <center><h2>Branding Palette</h2></center>
 
 ![](/upload/5.png)
+
+<center><h2>Mockups</h2></center>
+
+![](/upload/mockup-1.png)
