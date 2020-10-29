@@ -34,3 +34,5 @@ description: 'Client Branding '
 ![](/upload/mockup-1.png)
 
 ![](/upload/b3.png)
+
+![](/upload/shopping-bag-mockup-dark.png)
