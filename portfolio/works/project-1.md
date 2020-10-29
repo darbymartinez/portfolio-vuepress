@@ -1,7 +1,7 @@
 ---
 title: One Day Window
 date: 2018-08-01T00:00:00.000+00:00
-thumbnail: "/upload/1-3.png"
+thumbnail: "/upload/f8e076-2.png"
 year: 2020
 categories: []
 description: 'Client Branding '
