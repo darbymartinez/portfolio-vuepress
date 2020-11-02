@@ -34,3 +34,5 @@ fields:
   type: datetime
   config:
     required: true
+pages:
+- portfolio/works/kstraps.md
