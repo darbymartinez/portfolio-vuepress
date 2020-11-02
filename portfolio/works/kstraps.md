@@ -1,6 +1,6 @@
 ---
 title: KSTRAPS
-thumbnail: "/upload/20201102_162241_0003.png"
+thumbnail: "/upload/20201102_162337_0003.png"
 description: Client Work
 categories:
 - 'Branding '
