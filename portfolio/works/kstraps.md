@@ -17,7 +17,6 @@ date:
 <center><h2>Logos</h2></center>
 
 
-<center><h2>Sister Brand</h2></center>
 
 
 
@@ -26,5 +25,3 @@ date:
 
 
 <center><h2>Mockups</h2></center>
-
-
