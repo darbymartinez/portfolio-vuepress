@@ -1,6 +1,6 @@
 ---
 title: Umbrellis
-thumbnail: "/upload/4-3.png"
+thumbnail: "/upload/3-6.png"
 description: Client Branding
 categories:
 - " Branding"
@@ -14,13 +14,9 @@ date:
 
 <center><h2>Logos</h2></center>
 
-![](/upload/1-4.png)
+![](/upload/1-6.png)
 
-![](/upload/2-4.png)
-
-<center><h2>Branding Palette</h2></center>
-
-![](/upload/3-4.png)
+![](/upload/2-6.png)
 
 <center><h2>Mockups</h2></center>
 
