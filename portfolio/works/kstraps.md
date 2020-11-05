@@ -16,12 +16,14 @@ date:
 
 <center><h2>Logos</h2></center>
 
+![](/upload/1-5.png)
 
-
-
+![](/upload/2-5.png)
 
 <center><h2>Branding Palette</h2></center>
 
-
+![](/upload/2-5.png)
 
 <center><h2>Mockups</h2></center>
+
+![](/upload/mockup-2.png)
