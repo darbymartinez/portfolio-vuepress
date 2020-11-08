@@ -26,6 +26,8 @@ description: Internship
 
 ![](/upload/branding-pallete.png)
 
-<left><h1>Website</h1></left>
+<left><h1>Social Media Posts</h1></left>
 
-<left><h1>Social Media</h1></left>
+![](/upload/3-7.png)
+
+![](/upload/2-7.png)
