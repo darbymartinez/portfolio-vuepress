@@ -22,7 +22,7 @@ date:
 
 <center><h2>Branding Palette</h2></center>
 
-![](/upload/2-5.png)
+![](/upload/3-5.png)
 
 <center><h2>Mockups</h2></center>
 
