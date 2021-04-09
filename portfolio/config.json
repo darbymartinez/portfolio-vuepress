@@ -6,6 +6,12 @@
   "favicon": "/upload/toha.png",
   "navigation": [
     {
+      "text": "Youtube Channel ",
+      "link": "https://www.youtube.com/channel/UC_JgvlKMxge5jSiOlU3NVuA",
+      "position": "left",
+      "external": true
+    },
+    {
       "text": "Linkedin",
       "link": "https://www.linkedin.com/in/darbymartinez/",
       "position": "right",
