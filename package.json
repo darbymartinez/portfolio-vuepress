@@ -9,5 +9,8 @@
   "dependencies": {
     "vuepress": "^1.5.4",
     "webpack-dev-middleware": "3.7.2"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^1.5.17"
   }
 }
