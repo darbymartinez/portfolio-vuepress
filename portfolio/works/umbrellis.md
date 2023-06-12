@@ -9,7 +9,6 @@ date: null
 _template: works
 ---
 
-
 <left><h1>Branding</h1></left>
 
 <center><h2>A personal logo made for a client</h2></center>
