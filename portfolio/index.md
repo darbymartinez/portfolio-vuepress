@@ -5,5 +5,6 @@ title: null
 _template: home
 ---
 
+
 <Hero :text="$page.frontmatter.hero_text" />
 <WorksList />
