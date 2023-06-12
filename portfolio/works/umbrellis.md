@@ -1,14 +1,13 @@
 ---
 title: Umbrellis
-thumbnail: /upload/3-6.png
+thumbnail: "/upload/3-6.png"
 description: Client Branding
 categories:
-  - ' Branding'
+- " Branding"
 year: 2020
-date: null
-_template: works
----
+date: 
 
+---
 <left><h1>Branding</h1></left>
 
 <center><h2>A personal logo made for a client</h2></center>

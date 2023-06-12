@@ -1,16 +1,15 @@
 ---
 title: KSTRAPS
-thumbnail: /upload/copy-of-f8e076.png
+thumbnail: "/upload/copy-of-f8e076.png"
 description: Client Work
 categories:
-  - 'Branding '
-  - Web design
-  - 'Product packaging '
+- 'Branding '
+- Web design
+- 'Product packaging '
 year: 2020
-date: null
-_template: works
----
+date: 
 
+---
 <left><h1>Branding</h1></left>
 
 <center><h2>Kstraps is a New York based fetish-wear and lingerie designer.</h2></center>

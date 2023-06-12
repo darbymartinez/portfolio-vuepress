@@ -7,7 +7,6 @@
   "author": "Nichlas W. Andersen",
   "license": "MIT",
   "dependencies": {
-    "tinacms": "^1.5.8",
     "vuepress": "^1.5.4",
     "webpack-dev-middleware": "3.7.2"
   },
